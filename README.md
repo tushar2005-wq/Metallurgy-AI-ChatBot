@@ -172,6 +172,11 @@ Frontend runs at `http://localhost:3000`
 - Heat Treatment
 - Materials Characterization
 - Phase Transformations
+- Material Charaterization
+- Material Casting Technology
+- Material Forming Technology
+- Material Joining Technology
+- Mineral Processing
 
 ---
 
